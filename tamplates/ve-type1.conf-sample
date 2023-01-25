@@ -1,0 +1,22 @@
+#
+# Custom template
+#
+
+VERSION="2"
+ONBOOT="yes"
+
+PHYSPAGES="0:unlimited"
+#SWAPPAGES="65536"
+
+QUOTATIME="0"
+
+HOSTNAME=""
+IP_ADDRESS="0.0.0.0"
+NAMESERVER=""
+
+PLATFORM="linux"
+NUMMEMORYSUBGROUPS="512"
+
+#CT_PROJECT=""
+#CT_PURPOSE=""
+#CT_LINK=""
