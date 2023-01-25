@@ -17,6 +17,9 @@ NAMESERVER=""
 PLATFORM="linux"
 NUMMEMORYSUBGROUPS="512"
 
+#For vpn container
+#DEVNODES="net/tun:rw "
+
 #CT_PROJECT=""
 #CT_PURPOSE=""
 #CT_LINK=""
