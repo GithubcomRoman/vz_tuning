@@ -7,6 +7,7 @@ ONBOOT="yes"
 
 PHYSPAGES="0:unlimited"
 #SWAPPAGES="65536"
+#NETFILTER="full"
 
 QUOTATIME="0"
 
